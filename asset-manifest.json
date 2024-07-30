@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CodeClauseInternship_Memory_Game/static/css/main.ffdffa00.css",
+    "main.js": "/CodeClauseInternship_Memory_Game/static/js/main.aba6631e.js",
+    "static/js/453.58d809e6.chunk.js": "/CodeClauseInternship_Memory_Game/static/js/453.58d809e6.chunk.js",
+    "static/media/background.jpeg": "/CodeClauseInternship_Memory_Game/static/media/background.d6cc301ead4d956a8d43.jpeg",
+    "index.html": "/CodeClauseInternship_Memory_Game/index.html",
+    "main.ffdffa00.css.map": "/CodeClauseInternship_Memory_Game/static/css/main.ffdffa00.css.map",
+    "main.aba6631e.js.map": "/CodeClauseInternship_Memory_Game/static/js/main.aba6631e.js.map",
+    "453.58d809e6.chunk.js.map": "/CodeClauseInternship_Memory_Game/static/js/453.58d809e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffdffa00.css",
+    "static/js/main.aba6631e.js"
+  ]
+}
